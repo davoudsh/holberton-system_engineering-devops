@@ -3,7 +3,7 @@ What you should learn from this project
 
 At the end of this project you are expected to be able to explain to anyone, without the help of Google:
 
-Shell initialization files
+Shell initialization files/n
 What are the /etc/profile file and the /etc/profile.d directory
 What is the ~/.bashrc file
 Variables
